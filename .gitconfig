@@ -1,6 +1,6 @@
 [user]
-	email = p.voznenko@traviangames.com
-	name = Pavel Voznenko
+	email = p.voznenko@gmail.com
+	name = Pavlo Voznenko
 
 [alias]
 	#st = status -sb
@@ -26,9 +26,9 @@
 	branch = auto
 
 [gui]
-	recentrepo = /Users/Pavel/Projects/trava.my
+#	recentrepo = /Users/Pavel/Projects/trava.my
 [core]
-	excludesfile = /Users/Pavel/.gitignore_global
+#	excludesfile = /Users/Pavel/.gitignore_global
 	autocrlf = input
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
